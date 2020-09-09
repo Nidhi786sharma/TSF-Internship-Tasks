@@ -1,11 +1,12 @@
 # TSF-Internship-Tasks
 A very warm welcome to all those who are here!This repo contains all the tasks which has been done by me during my internhsip under The Sparks Foundation.
 
+## Tasks Performed by me:
+
+Task-1: Improve Your [Linked-in Profile](https://www.linkedin.com/in/nidhi-sharma-643bba15b/)
 
 
-## Task-1: Improve Your Linked-in Profile
- https://www.linkedin.com/in/nidhi-sharma-643bba15b/
-## Task-2: To Explore [Supervised Machine Learning](Task-1.md)
+Task-2: To Explore [Supervised Machine Learning](Task-1.md)
 
 
 ## Fork this repository
