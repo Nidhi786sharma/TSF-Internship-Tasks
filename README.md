@@ -6,7 +6,7 @@ A very warm welcome to all those who are here!This repo contains all the tasks w
 Task-1: Improve Your [Linked-in Profile](https://www.linkedin.com/in/nidhi-sharma-643bba15b/)
 
 
-Task-2: To Explore [Supervised Machine Learning](Task-1.md)
+Task-2: To Explore [Supervised Machine Learning](Task-2.md)
 
 
 ## Fork this repository
