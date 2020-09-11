@@ -9,6 +9,12 @@ Task-1: Improve Your [Linked-in Profile](https://www.linkedin.com/in/nidhi-sharm
 Task-2: To Explore [Supervised Machine Learning](Task-2.md)
 
 
+Task-3: To Explore [Unsupervised Machine Learning](Task-3.md)
+
+
+
+
+
 ## Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
