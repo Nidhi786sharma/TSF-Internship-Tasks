@@ -12,6 +12,9 @@ Task-2: To Explore [Supervised Machine Learning](Task-2.md)
 Task-3: To Explore [Unsupervised Machine Learning](Task-3.md)
 
 
+Task-4: To Explore [Decision Tree Algorithm](Task-4.md)
+
+
 
 
 
